@@ -1,0 +1,3 @@
+function Nombre(name) {
+    console.log(Fernando);
+}

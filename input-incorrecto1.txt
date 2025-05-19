@@ -1,0 +1,3 @@
+function suma(a) {
+    a = 3+2;
+}
