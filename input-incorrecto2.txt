@@ -1,0 +1,3 @@
+function resta(a) {
+   console.log(3-2);
+}
