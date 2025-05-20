@@ -11,7 +11,7 @@ git clone https://github.com/fernanra05/52091
 
 Lo siguientes es cambiar entrar en la carpeta "Proyecto", para eso colocamos el siguiente comando:
 
-cd Proyectos
+cd 52091/Proyectos
 
 Luego ejecutamos el index.js con el comando:
 
